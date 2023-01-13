@@ -6,5 +6,5 @@ Here you can find this folds:
 Additionally I applied and explained clustering algorithms (K-means, hierarchical and DBSCAN) for practice, 
 as you can see in the code it did not give anything reasonable either.
 
-- Linear Regresion (S-PLUS): Is a regression proyect to predict galaxy redshift. Here I use a classical Linear Regression and a Random Forest Regression
+- Linear Regresion (S-PLUS): Is a regression proyect to predict galaxys redshifts. Here I use a classical Linear Regression and a Random Forest Regression
 algorithm. 
