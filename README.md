@@ -1,5 +1,5 @@
 # Data-Science-Algorithms
-Hi! It´s me porfolio/repository of Data Science proyects. 
+Hi! It´s my porfolio/repository of Data Science proyects. 
 Here you can find this folds:
 
 - KNN_LR_NB_Cluster: Is a proyect of Stars, Galaxys and Quasar classification using K-NN, Linear Regression and Naive Bayes algorithms. 
