@@ -2,7 +2,7 @@
 Hi! It´s my porfolio/repository of Data Science proyects. 
 Here you can find this folds:
 
-- KNN_LR_NB_Cluster: Is a proyect of Stars, Galaxys and Quasar classification using K-NN, Linear Regression and Naive Bayes algorithms. 
+- KNN_LR_NB_Cluster: Is a proyect of Stars, Galaxys and Quasars classification using K-NN, Linear Regression and Naive Bayes algorithms. 
 Additionally I applied and explained clustering algorithms (K-means, hierarchical and DBSCAN) for practice, 
 as you can see in the code it did not give anything reasonable either.
 
