@@ -9,7 +9,7 @@ as you can see in the code it did not give anything reasonable either.
 - Linear Regresion (S-PLUS): Is a regression proyect to predict galaxys redshifts. Here I use a classical Linear Regression and a Random Forest Regression
 algorithm. 
 
-- Santander Customer Transaction Prediction: In this project I applied boosting techniques (Ensemble, Random Rorest, Ada boosting, Gradient boosting, XBG and Ada Boosting), balancing with imbalanced learn, and LIME for feature analysis. 
+- Santander Customer Transaction Prediction: In this project I applied boosting techniques (Ensemble, Random Forest, Ada boosting, Gradient boosting, XBG and Cat boosting), balancing with Imbalanced Learn, and LIME for feature analysis. 
 I am going to work with a dataset provided in Kaggle by "Banco Santander", where they describe the dataset as:
 "You are provided with an anonymized dataset containing numeric feature variables, the binary target column, and a string ID_code column.
 The task is to predict the value of target column in the test set."
